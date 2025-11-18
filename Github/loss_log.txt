@@ -1,0 +1,32 @@
+================ Training Loss (Tue Nov 18 09:36:32 2025) ================
+[Rank 0] (epoch: 1, iters: 10, time: 0.528, data: 3.299) , D_A: 0.232, G_A: 0.164, cycle_A: 0.064, idt_A: 0.048, D_B: 0.311, G_B: 0.355, cycle_B: 0.254, idt_B: 0.025
+
+[Rank 0] (epoch: 1, iters: 20, time: 0.532, data: 0.005) , D_A: 0.225, G_A: 0.811, cycle_A: 0.104, idt_A: 0.066, D_B: 0.176, G_B: 0.299, cycle_B: 0.192, idt_B: 0.042
+
+[Rank 0] (epoch: 1, iters: 30, time: 0.532, data: 0.002) , D_A: 0.146, G_A: 0.415, cycle_A: 0.132, idt_A: 0.072, D_B: 0.191, G_B: 0.553, cycle_B: 0.236, idt_B: 0.024
+
+[Rank 0] (epoch: 1, iters: 40, time: 0.535, data: 0.002) , D_A: 0.154, G_A: 1.050, cycle_A: 0.489, idt_A: 0.104, D_B: 0.177, G_B: 0.368, cycle_B: 0.265, idt_B: 0.202
+
+[Rank 0] (epoch: 1, iters: 50, time: 0.535, data: 0.003) , D_A: 0.115, G_A: 0.362, cycle_A: 0.096, idt_A: 0.095, D_B: 0.219, G_B: 0.356, cycle_B: 0.304, idt_B: 0.038
+
+[Rank 0] (epoch: 1, iters: 60, time: 0.538, data: 0.002) , D_A: 0.058, G_A: 0.458, cycle_A: 0.131, idt_A: 0.064, D_B: 0.271, G_B: 0.414, cycle_B: 0.200, idt_B: 0.053
+
+[Rank 0] (epoch: 1, iters: 70, time: 0.539, data: 0.003) , D_A: 0.097, G_A: 0.359, cycle_A: 0.144, idt_A: 0.054, D_B: 0.242, G_B: 0.161, cycle_B: 0.189, idt_B: 0.058
+
+[Rank 0] (epoch: 1, iters: 80, time: 0.541, data: 0.002) , D_A: 0.205, G_A: 1.070, cycle_A: 0.167, idt_A: 0.057, D_B: 0.216, G_B: 0.308, cycle_B: 0.256, idt_B: 0.067
+
+================ Training Loss (Tue Nov 18 09:38:58 2025) ================
+================ Training Loss (Tue Nov 18 09:44:50 2025) ================
+[Rank 0] (epoch: 50, iters: 10, time: 0.525, data: 2.409) , D_A: 45693.719, G_A: 46572.047, cycle_A: 10.708, idt_A: 4.480, D_B: 18866.516, G_B: 19089.529, cycle_B: 7.175, idt_B: 7.269
+
+[Rank 0] (epoch: 50, iters: 20, time: 0.521, data: 0.001) , D_A: 244062.812, G_A: 143661.797, cycle_A: 14.094, idt_A: 4.373, D_B: 186282.453, G_B: 203597.594, cycle_B: 8.746, idt_B: 8.164
+
+[Rank 0] (epoch: 50, iters: 30, time: 0.530, data: 0.003) , D_A: 695594.312, G_A: 420400.188, cycle_A: 9.960, idt_A: 4.348, D_B: 563962.500, G_B: 579502.000, cycle_B: 8.696, idt_B: 5.358
+
+================ Training Loss (Tue Nov 18 09:46:11 2025) ================
+[Rank 0] (epoch: 51, iters: 10, time: 0.531, data: 2.335) , D_A: 17188.625, G_A: 16488.541, cycle_A: 5.246, idt_A: 4.850, D_B: 55081.609, G_B: 54812.055, cycle_B: 11.164, idt_B: 0.807
+
+[Rank 0] (epoch: 51, iters: 20, time: 0.530, data: 0.006) , D_A: 193270.625, G_A: 192312.844, cycle_A: 1.344, idt_A: 3.784, D_B: 486577.000, G_B: 470691.062, cycle_B: 9.265, idt_B: 0.374
+
+[Rank 0] (epoch: 51, iters: 30, time: 0.531, data: 0.003) , D_A: 595219.500, G_A: 602424.500, cycle_A: 5.635, idt_A: 5.492, D_B: 1264117.750, G_B: 1263715.500, cycle_B: 11.238, idt_B: 1.681
+
